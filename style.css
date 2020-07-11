@@ -8452,7 +8452,7 @@ a:active {
     content: '';
     height: 170px;
     width: 170px;
-    background-image: url(../img/green-ball.png);
+    background-image: url(https://rawcdn.githack.com/nelmaco/forsage/e4dc83d61b3bb23a479c729b8694f8ca290127b5/green-ball.png);
     position: absolute;
     left: 0;
     top: 50%;
@@ -8566,7 +8566,7 @@ a:active {
     top: 0;
     height: 100%;
     width: 100%;
-    background-image: url(../img/greeen-arrow-bg.png);
+    background-image: url(https://rawcdn.githack.com/nelmaco/forsage/e4dc83d61b3bb23a479c729b8694f8ca290127b5/greeen-arrow-bg.png);
     background-repeat: no-repeat;
     -webkit-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -8702,7 +8702,7 @@ a:active {
     right: 0;
     top: 0;
     bottom: 0;
-    background: url(../img/forsage/photos/forsage3x_figure.svg) no-repeat center;
+    background: url(https://rawcdn.githack.com/nelmaco/forsage/e4dc83d61b3bb23a479c729b8694f8ca290127b5/forsage3x_figure.svg) no-repeat center;
     background-size: 100% 100%;
 }
 
@@ -8717,7 +8717,7 @@ a:active {
     right: 10px;
     bottom: 0;
     top: 0;
-    background: url(../img/forsage/photos/forsage4x_figure.svg) no-repeat center;
+    background: url(https://rawcdn.githack.com/nelmaco/forsage/e4dc83d61b3bb23a479c729b8694f8ca290127b5/forsage4x_figure.svg) no-repeat center;
     background-size: 100% 100%;
 }
 
@@ -8799,7 +8799,7 @@ a:active {
     content: '';
     height: 100%;
     width: 100%;
-    background-image: url(../img/greeen-arrow-bg.png);
+    background-image: url(https://rawcdn.githack.com/nelmaco/forsage/e4dc83d61b3bb23a479c729b8694f8ca290127b5/greeen-arrow-bg.png);
     background-repeat: no-repeat;
     position: absolute;
     left: 0;
@@ -9079,7 +9079,7 @@ a:active {
 }
 
 .tm-green-color .tm-primary-nav .menu-item>.nav-link:after {
-    background: url(../img/green-light.png) no-repeat center center;
+    background: url(https://rawcdn.githack.com/nelmaco/forsage/920ef90958b0173ed4866a3103b7988db4a60cf4/green-light.png) no-repeat center center;
 }
 
 .tm-green-color .tm-primary-nav .menu-item>.nav-link:before {
@@ -9465,7 +9465,7 @@ body.tm-purple-color {
 }
 
 .tm-purple-color .tm-primary-nav .menu-item>.nav-link:after {
-    background: url(../img/purple-light.png) no-repeat center center;
+    background: url(https://rawcdn.githack.com/nelmaco/forsage/920ef90958b0173ed4866a3103b7988db4a60cf4/purple-light.png) no-repeat center center;
 }
 
 .tm-purple-color .tm-active-language {
@@ -9693,7 +9693,7 @@ body.tm-purple-color {
     position: absolute;
     left: 0;
     top: 0;
-    background-image: url(../img/greeen-arrow-bg2.png);
+    background-image: url(https://rawcdn.githack.com/nelmaco/forsage/b57967108bf71b44cb8ce1ca02b33a986274ac29/greeen-arrow-bg2.png);
     background-repeat: no-repeat;
     background-position: center;
     height: 100%;
@@ -9810,7 +9810,7 @@ body.tm-purple-color {
 
 .tm-purple-color .tm-email-btn span:before {
     border-color: transparent;
-    background-image: url(../img/purple-subsc.png);
+    background-image: url(https://rawcdn.githack.com/nelmaco/forsage/562435ce425ed408cde2f28fdffa0b2c826bdced/purple-subsc.png);
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-transition: all 0.6s ease;
@@ -9886,12 +9886,12 @@ body.tm-purple-color {
 }
 
 .tm-purple-color .green-slider-nav-wrap:before {
-    background-image: url(../img/purple-ball.png);
+    background-image: url(https://rawcdn.githack.com/nelmaco/forsage/562435ce425ed408cde2f28fdffa0b2c826bdced/purple-ball.png);
 }
 
 .tm-purple-color .green-slider-nav .slick-prev.slick-arrow:after,
 .tm-purple-color .green-slider-nav .slick-next.slick-arrow:after {
-    background-image: url(../img/greeen-arrow-bg2.png);
+    background-image: url(https://rawcdn.githack.com/nelmaco/forsage/562435ce425ed408cde2f28fdffa0b2c826bdced/greeen-arrow-bg2.png);
 }
 
 .tm-purple-color .green-slider-nav .tm-green-year,
@@ -10160,7 +10160,7 @@ body.tm-purple-color {
 }
 
 .tm-orange-color .tm-primary-nav .menu-item>.nav-link:after {
-    background: url(../img/orange-light.png) no-repeat center center;
+    background: url(https://rawcdn.githack.com/nelmaco/forsage/e4dc83d61b3bb23a479c729b8694f8ca290127b5/orange-light.png) no-repeat center center;
 }
 
 .tm-orange-color .tm-primary-nav .menu-item>.nav-link.active {
