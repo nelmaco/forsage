@@ -4783,7 +4783,7 @@ a:active {
     -webkit-transform: translateX(-20px);
     transform: translateX(-20px);
     height: 80px;
-    background: url(../img/forsage/logo-02.svg) no-repeat center;
+    background: url(https://rawcdn.githack.com/nelmaco/forsage/4bfc8a0f63117d01a1401f3dc6b7e192ee2e1054/logo-02.svg) no-repeat center;
     background-size: 100% 100%;
 }
 
@@ -5067,7 +5067,7 @@ a:active {
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
-    background: url(../img/light.png) no-repeat center center;
+    background: url(https://rawcdn.githack.com/nelmaco/forsage/da2d313b87cf53cf13d0096ab2cb950365d59a86/light.png) no-repeat center center;
     width: 39px;
     height: 48px;
     top: 1px;
@@ -5360,7 +5360,7 @@ a:active {
 }
 
 .forsage-logo {
-    background-image: url("../img/forsage/backgrounds/cat_figure--mobile.png");
+    background-image: url("https://rawcdn.githack.com/nelmaco/forsage/d717030084a0a224387faa81f34c5eee1e5d1dcc/cat_figure--mobile.png");
     padding-top: 0;
     background-size: 78%;
     background-repeat: no-repeat;
