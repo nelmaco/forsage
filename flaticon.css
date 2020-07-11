@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: "Flaticon";
-  src: url("../fonts/Flaticon.eot");
-  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/Flaticon.woff") format("woff"),
-       url("../fonts/Flaticon.ttf") format("truetype"),
-       url("../fonts/Flaticon.html#Flaticon") format("svg");
+  src: url("https://rawcdn.githack.com/nelmaco/forsage/703d94899259b2c32010fb1e21fac3ff743fad04/Flaticon.eot");
+  src: url("https://rawcdn.githack.com/nelmaco/forsage/703d94899259b2c32010fb1e21fac3ff743fad04/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("https://rawcdn.githack.com/nelmaco/forsage/703d94899259b2c32010fb1e21fac3ff743fad04/Flaticon.woff") format("woff"),
+       url("https://rawcdn.githack.com/nelmaco/forsage/703d94899259b2c32010fb1e21fac3ff743fad04/Flaticon.ttf") format("truetype"),
+       url("https://rawcdn.githack.com/nelmaco/forsage/703d94899259b2c32010fb1e21fac3ff743fad04/Flaticon.html#Flaticon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
