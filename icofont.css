@@ -12,8 +12,8 @@
   font-family: "IcoFont";
 font-weight: normal;
 font-style: "Regular";
-src: url("../fonts/icofont.woff2") format("woff2"),
-url("../fonts/icofont.woff") format("woff");
+src: url("https://rawcdn.githack.com/nelmaco/forsage/40af32b50ba7fb2eb9e07ff758907638fc910c1c/icofont.woff2") format("woff2"),
+url("https://rawcdn.githack.com/nelmaco/forsage/40af32b50ba7fb2eb9e07ff758907638fc910c1c/icofont.woff") format("woff");
 }
 
 [class^="icofont-"], [class*=" icofont-"]
